@@ -26,4 +26,3 @@ legend("topright", c("Sub_metering_1", "Sub_metering_2", "Sub_metering_3"), lty=
 
 plot(datetime, globalReactivePower, type="l", xlab="datetime", ylab="Global_reactive_power")
 
-dev.off()
